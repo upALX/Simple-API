@@ -4,6 +4,8 @@
 
 Simple API is an simple API developed with Python v3.
 
+**:brain: This is a repo study :brain:**
+
 ---
 
 ## Tech stack used
@@ -15,7 +17,6 @@ Simple API is an simple API developed with Python v3.
 ### About :book:
 Simple API is an API that read a .csv file and return the sum of your data based on each of the columns. This simple, but very interesting from a study point of view. 
 
-**This is a repo study**
 
 
 ### How to use :open_mouth:
@@ -26,13 +27,12 @@ git clone https://github.com/upALX/Simple-API.git
 **Install the "Tech Stack"** (If you have all the "Tech Stack" installed, ignore this precess):
 ```
 pip install Flask
-pip install nodejs
 ```
 **Run the app**
 ```
-npx nodemon app.py - With auto-restart
+export FLASK_ENV=development - This activate the auto-restart server
 or
-flask run app.py - Normal runner
+flask run - This run the app
 ```
 ### License :unlock:
 This project is under the [MIT license](https://github.com/upALX/Simple-API/blob/1bd0e539a673e684ebe9977cd72c709acbd65aa3/LICENSE).
