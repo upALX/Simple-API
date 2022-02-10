@@ -31,9 +31,15 @@ pip install Flask
 **Run the app**
 ```
 export FLASK_ENV=development - This activate the auto-restart server
-or
+ 
++
+
 flask run - This run the app
 ```
+### Make your mark :triangular_flag_on_post:
+
+**If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/Pyguessing/issues), [pull request](https://github.com/upALX/Pyguessing/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/):D**
+
 ### License :unlock:
 This project is under the [MIT license](https://github.com/upALX/Simple-API/blob/1bd0e539a673e684ebe9977cd72c709acbd65aa3/LICENSE).
 
