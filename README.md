@@ -8,7 +8,6 @@ Simple API is an simple API developed with Python v3.
 
 ---
 
-
 ## Tech stack used
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
