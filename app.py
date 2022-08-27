@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 tableReaded = pd.read_csv('API-DATA.csv')
 
+
 @app.route('/')
 def index():
     welc = 'Welcome to simple API (this is not endpoint)'
