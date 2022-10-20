@@ -41,7 +41,6 @@ export FLASK_ENV=development - This activate the auto-restart server
 flask run - This run the app
 ```
 
-
 ### Make your mark :triangular_flag_on_post:
 
 
