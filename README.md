@@ -23,7 +23,6 @@ Simple API is an API that read a .csv file and return the sum of your data based
 ### How to use :open_mouth:
 Clone this repo:
 
-
 ```
 git clone https://github.com/upALX/Simple-API.git
 ```
