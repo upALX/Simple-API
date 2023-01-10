@@ -29,6 +29,7 @@ pip install Flask
 ```
 **Run the app**
 ```
+
 export FLASK_ENV=development - This activate the auto-restart server
  
 +
