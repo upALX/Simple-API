@@ -6,6 +6,7 @@ Simple API is an simple API developed with Python v3.
 
 **:brain: This is a repo study :brain:**
 
+
 ---
 
 ## Tech stack used
